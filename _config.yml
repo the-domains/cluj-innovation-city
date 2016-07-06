@@ -1,0 +1,14 @@
+layout_spectrum: 0.9980995
+color:
+  saturation: 0.01363393
+  brandStrength: 0.3261649
+  lightness: 0.2825845
+  rhythmicContrast: 0.2920855
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.145797
+name: Cluj Innovation City
